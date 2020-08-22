@@ -4,7 +4,7 @@ print(2+1)
 # Subtration
 print(40-10)
 
-# Division
+# Divisio
 print(50/6)
 
 # Remainder
