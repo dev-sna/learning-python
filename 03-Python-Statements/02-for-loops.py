@@ -42,6 +42,13 @@ for item in person.items():
 for key, value in person.items():
     print('Key, value: ', key, value)
 
+# Nested for loops
+num_list = []
+for x in [1, 2, 3]:
+    for y in [1, 10, 100]:
+        num_list.append(x*y)
+print('Nested for lopps list: ', num_list)
+
 # -------- break, continue and pass --------
 # break: breaks the current loop
 # pass: does nothing
